@@ -41,7 +41,6 @@ https://portswigger.net/web-security/dom-based/open-redirection/lab-dom-open-red
 --------------------------------------------------------
 # [PROOF OF CONCEPT]
 --------------------------------------------------------
-bash
 ```
 1. Buka lab kamu.
    Contoh format:
