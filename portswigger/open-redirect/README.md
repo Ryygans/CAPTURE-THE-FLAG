@@ -3,28 +3,28 @@
 ========================================================
 
 # [SUMMARY]
-Open Redirect adalah kerentanan keamanan yang terjadi
-ketika aplikasi web melakukan redirect ke URL lain
-tanpa validasi yang tepat.
+Open Redirect adalah kerentanan keamanan yang terjadi<br>
+ketika aplikasi web melakukan redirect ke URL lain<br>
+tanpa validasi yang tepat.<br>
 
-Pada DOM Open Redirect, proses redirect dilakukan
-menggunakan JavaScript di sisi client (browser),
-bukan langsung dari server.
+Pada DOM Open Redirect, proses redirect dilakukan<br>
+menggunakan JavaScript di sisi client (browser),<br>
+bukan langsung dari server.<br>
 
-Akibatnya, attacker dapat memanipulasi parameter URL
-untuk mengarahkan korban ke website berbahaya.
+Akibatnya, attacker dapat memanipulasi parameter URL<br>
+untuk mengarahkan korban ke website berbahaya.<br>
 
 
 --------------------------------------------------------
 # [CHALLENGE INFORMATION]
 --------------------------------------------------------
 
-Nama Bug       : Open Redirect
-Nama Challenge : DOM-BASED Open Redirect
-Platform       : PortSwigger Web Security Academy
-Level          : Apprentice (Mudah)
+Nama Bug       : Open Redirect<br>
+Nama Challenge : DOM-BASED Open Redirect<br>
+Platform       : PortSwigger Web Security Academy<br>
+Level          : Apprentice (Mudah)<br>
 
-Link Lab:
+Link Lab:<br>
 https://portswigger.net/web-security/dom-based/open-redirection/lab-dom-open-redirection
 
 
