@@ -2,7 +2,7 @@
                     WEB DECODE
                     picoCTF
 ========================================================
-<img src="webdecode.jpg" alt="chall" width=250 height=250>
+<center><img src="webdecode.jpg" alt="chall" width=400 height=400></center>
 <br>
 [SUMMARY]
 Web Decode adalah challenge kategori Web dari picoCTF
