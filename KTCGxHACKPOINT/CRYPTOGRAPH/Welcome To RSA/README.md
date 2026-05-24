@@ -3,13 +3,13 @@
 ### 🟢 Tingkat Kesulitan: MUDAH | 🎯 Poin: 100
 
 # 📖 Ringkasan (Overview)
-Selamat datang di challenge Cryptography, **WELCOME TO RSA**!
-Dalam tantangan ini, peserta akan diperkenalkan dengan salah satu teknik kriptografi yaitu RSA
+Selamat datang di challenge Cryptography, **WELCOME TO RSA**!<br>
+Dalam tantangan ini, peserta akan diperkenalkan dengan salah satu teknik kriptografi yaitu RSA<br>
 Challenge ini menguji pemahaman dasar mengenai:
-Perhitungan modulus RSA (N = p × q)
-Totient Euler
-Perhitungan private key
-Proses dekripsi RSA
+- Perhitungan modulus RSA (N = p × q)
+- Totient Euler
+- Perhitungan private key
+- Proses dekripsi RSA
 
 # Proof of Concept
 ```bash
