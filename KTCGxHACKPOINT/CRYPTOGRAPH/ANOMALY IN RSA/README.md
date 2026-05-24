@@ -49,8 +49,9 @@ Copy flag tersebut dan submit ke dalam kolom pengumpulan flag di website CTF.
 # 👨‍💻 Researcher
 > zoxxtzy
 
-#📌 Tag
+# 📌 Tag
 > #cryptography #ctf #easy #ktcg #hackpoint
+
 # ⚠️ Sanggahan (Disclaimer)
 Tantangan ini adalah bagian dari kompetisi CTF dan dibuat hanya untuk tujuan edukasi.<br>
 Jangan mencoba menerapkan teknik ini pada sistem lain tanpa izin resmi dari pemiliknya.
