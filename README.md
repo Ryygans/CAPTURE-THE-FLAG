@@ -5,19 +5,16 @@
 Repository ini berisi kumpulan write-up CTF
 yang saya kerjakan secara mandiri.
 
-Beberapa write-up menggunakan nickname berbeda
-sebagai bagian dari identitas online saya.
-
-Semua write-up dalam repository ini ditulis
-oleh satu orang.
-
+Write up ini di sempurnakan oleh satu orang namun berdasarkan 
+dari write up yang asli milik team.
+> “In Cyber, We Don't Trust Everyone. We Only Trust Ourselves.”
 ========================================================
 
 [AUTHOR]
 
 Main Handle : @zoxxtzy
 
-Other Aliases:
+Thx to:
 - @Ryygans
 - @trzy
 - @0xZero
